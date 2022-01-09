@@ -4,92 +4,143 @@
   <url>
     <loc>https://thefire2020.github.io/about/index.html</loc>
     
-    <lastmod>2020-09-05T04:32:03.136Z</lastmod>
+    <lastmod>2022-01-09</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/sixth.html</loc>
     
-    <lastmod>2020-06-10T03:49:15.155Z</lastmod>
+    <lastmod>2020-06-10</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/eleventh.html</loc>
     
-    <lastmod>2020-06-10T03:45:09.006Z</lastmod>
+    <lastmod>2020-06-10</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/niceth.html</loc>
     
-    <lastmod>2020-05-28T02:51:10.351Z</lastmod>
+    <lastmod>2020-05-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/twelfth.html</loc>
     
-    <lastmod>2020-05-28T02:51:10.346Z</lastmod>
+    <lastmod>2020-05-28</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/fourth.html</loc>
     
-    <lastmod>2020-04-30T15:50:19.938Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/tenth.html</loc>
     
-    <lastmod>2020-04-30T12:18:37.151Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/seventh.html</loc>
     
-    <lastmod>2020-04-30T09:36:57.511Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/first.html</loc>
     
-    <lastmod>2020-04-30T09:36:57.507Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/second.html</loc>
     
-    <lastmod>2020-04-30T09:36:57.504Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/fifth.html</loc>
     
-    <lastmod>2020-04-30T09:36:57.501Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/third.html</loc>
     
-    <lastmod>2020-04-30T09:36:57.495Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
   
   <url>
     <loc>https://thefire2020.github.io/eighth.html</loc>
     
-    <lastmod>2020-04-30T09:32:07.945Z</lastmod>
+    <lastmod>2020-04-30</lastmod>
     
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
+  
+
+  <url>
+    <loc>https://thefire2020.github.io/</loc>
+    <lastmod>2022-01-09</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://thefire2020.github.io/tags/%E5%AE%9C%E5%AE%BE%E4%B8%89%E4%B8%AD/</loc>
+    <lastmod>2022-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://thefire2020.github.io/tags/%E7%9F%B3%E5%AE%A4%E4%B8%AD%E5%AD%A6/</loc>
+    <lastmod>2022-01-09</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
   
 </urlset>
